@@ -28,7 +28,7 @@ We broke the broad question into smaller, connected questions:
 | Access barriers | Transportation barriers and engagement with follow-up care |
 | Care coordination | Department fragmentation and emergency visits among patients with type 2 diabetes |
 
-The team used exploratory analysis, visualizations, and a logistic-regression analysis of follow-up engagement. Ben's care-fragmentation work examined distinct departments visited per patient alongside encounter and emergency-visit counts, using Python/pandas and Seaborn/Matplotlib visualizations.
+The team used exploratory analysis, visualizations, and a logistic-regression analysis of follow-up engagement. My care-fragmentation work examined distinct departments visited per patient alongside encounter and emergency-visit counts, using Python/pandas and Seaborn/Matplotlib visualizations.
 
 ## Findings and recommendations
 
@@ -52,7 +52,7 @@ These are **observational findings and proposed changes**, not evidence that MyC
 
 Thank you to our mentor **Cara Chang**, the organizers, judges, fellow competitors, and Northwestern's Department of Statistics and Data Science.
 
-Ben contributed to the care-fragmentation analysis, the team's approach and key findings, and the presentation of care-coordination recommendations. Other analyses and the overall award belong to the team; see [contribution notes](docs/contributions.md).
+I contributed to the care-fragmentation analysis, our team's approach and key findings, and the presentation of care-coordination recommendations. The wider analyses and the award were team achievements; see [contribution notes](docs/contributions.md).
 
 ## Materials and data
 
