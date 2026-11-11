@@ -39,8 +39,6 @@ The repository's retrospective explanatory text was prepared with AI assistance 
 
 Thank you to Cara Chang for helping the team organize and focus its analysis; to the Northwestern Department of Statistics and Data Science, competition organizers, judges, and fellow participants; and to Stormont Vail Health for the challenge.
 
-Takeshi Chang's [separate team repository](https://github.com/Takeshi-Chang/nu-datafest-2026) provided an example of portfolio organization. Its analysis, code, findings, and team results are not part of Team Byte Me's work.
-
 ## Rights and reuse
 
 This repository does not grant rights to the proprietary competition data or imply permission to reuse teammates' work. The final presentation retains its existing attribution and credits. No open-source license is added on behalf of the full team.
