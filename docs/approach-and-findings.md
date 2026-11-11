@@ -30,7 +30,7 @@ Portal access alone does not resolve transportation barriers. Outreach and coord
 
 ### Department fragmentation
 
-Ben's focus was care fragmentation among patients with type 2 diabetes. The work considered the number of distinct departments a patient visited, total encounters, and emergency-visit counts.
+My focus was care fragmentation among patients with type 2 diabetes. The work considered the number of distinct departments a patient visited, total encounters, and emergency-visit counts.
 
 Python/pandas aggregation and Seaborn/Matplotlib visualizations supported comparisons between department fragmentation and emergency care. The final story argued for stronger coordination and continuity across a patient's care team.
 
