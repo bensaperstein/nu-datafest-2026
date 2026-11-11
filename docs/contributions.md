@@ -12,15 +12,15 @@
 
 **Mentor:** Cara Chang
 
-The project and People's Choice Award were collective achievements. This repository is maintained in Ben's account as a portfolio record of the team work.
+The project and People's Choice Award were collective achievements. I maintain this repository as a portfolio record of our team's work.
 
-## Ben's contribution
+## My contribution
 
-Ben focused on **department fragmentation in type 2 diabetes care**. He contributed to the approach and key findings and presented recommendations about care coordination and continuity.
+I focused on **department fragmentation in type 2 diabetes care**. I contributed to our approach and key findings and presented recommendations about care coordination and continuity.
 
-The supporting work examined distinct departments visited per patient, total encounters, and emergency-visit counts, with Python/pandas aggregation and Seaborn/Matplotlib visualizations. This does not imply Ben independently authored every supporting code cell.
+The supporting work examined distinct departments visited per patient, total encounters, and emergency-visit counts, with Python/pandas aggregation and Seaborn/Matplotlib visualizations. I did not independently author every supporting code cell.
 
-The wider team's MyChart, follow-up, age, and transportation analyses are described as **team work**. This repository does not attribute the logistic regression or every analysis to Ben individually. A complete division of authorship across all teammates is not asserted here.
+Our MyChart, follow-up, age, and transportation analyses are described as **team work**. I am not claiming individual authorship of the logistic regression or every analysis. These notes describe my contribution without assigning every task across the team.
 
 ## AI assistance
 
