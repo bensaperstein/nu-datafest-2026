@@ -1,0 +1,23 @@
+# Proprietary competition data and patient-level extracts
+data/
+raw/
+processed/
+*.csv
+*.tsv
+*.parquet
+*.feather
+*.xlsx
+*.xls
+*.db
+*.sqlite*
+*.pkl
+*.pickle
+*.zip
+
+# Notebooks may contain patient-level outputs; review separately before adding
+*.ipynb
+.ipynb_checkpoints/
+.env
+.env.*
+__pycache__/
+.DS_Store
